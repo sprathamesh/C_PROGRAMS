@@ -11,3 +11,4 @@
 10.pass fail
 11.swap 2 number
 12.income tax
+13.print table
