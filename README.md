@@ -6,8 +6,8 @@
 5.fibonacii series
 6.greatest of four number
 7.leap year
-8.loop n nantural number\n
-odd even\n
-pass fail\n
-swap 2 number\n
-income tax\n
+8.loop n nantural number
+9.odd even
+10.pass fail
+11.swap 2 number
+12.income tax
