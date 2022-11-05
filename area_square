@@ -1,0 +1,10 @@
+#include<math.h>
+int main()
+{
+	int side;
+	printf("enter side of square");
+	scanf("%d",&side);
+	printf("the area of square is %f",pow(side,2));
+	return 0;
+}
+	
